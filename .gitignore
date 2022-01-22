@@ -1,0 +1,8 @@
+pyproject.toml
+climate_temp.csv
+climate_precip.csv
+*.pem
+Untitled.ipynb
+.DS_Store
+.ipynb_checkpoints
+.idea/
