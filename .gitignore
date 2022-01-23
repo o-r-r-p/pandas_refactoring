@@ -1,4 +1,3 @@
-pyproject.toml
 climate_temp.csv
 climate_precip.csv
 *.pem
