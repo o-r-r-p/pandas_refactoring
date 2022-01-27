@@ -26,3 +26,8 @@ def test_calculate_ratio(df):
     ratio = calculate_ratio(df=df_test, numerator=0, denominator=2)
     assert len(ratio) == 2
     assert type(ratio) == list
+
+
+# Hi, congrats! you got assigned to the assignment!
+# hehe
+
