@@ -5,7 +5,7 @@
 ## Document
 - work配下にリファクタリングを行ったmain.py, および関数のスクリプトを配置 
 - work/data配下に使用したcsvファイルを配置 
-- tests配下にpytestにより実行されるスクリプトを配置
+- test配下にpytestにより実行されるスクリプトを配置
 
 ## Install
 `git clone git@github.com:o-r-r-p/pandas_refactoring.git`   
