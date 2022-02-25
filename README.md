@@ -1,6 +1,6 @@
 # Pandas refactoring
 - refactor work/main.py
-- propose and write unit tests using Pytest
+- propose and write unit testing using Pytest
 
 ## Document
 - work配下にリファクタリングを行ったmain.py, および関数のスクリプトを配置 
